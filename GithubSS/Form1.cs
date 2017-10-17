@@ -15,6 +15,7 @@ namespace GithubSS
         public Form1()
         {
             InitializeComponent();
+            //kommentary
         }
     }
 }
